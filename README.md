@@ -90,7 +90,6 @@ diabetes-prediction-xgboost-shap/
 │
 ├── README.md
 └── requirements.txt
-**Nota sobre el modelo serializado:** El archivo `xgboost_diabetes.pkl` no está incluido en el repositorio por razones de seguridad y tamaño. Para regenerarlo, ejecuta el notebook `03_modelo_xgboost.ipynb` completo — el modelo se entrena en menos de 30 segundos en Google Colab y se guarda automáticamente.
 ```
 
 ---
@@ -208,8 +207,8 @@ streamlit run app.py
 
 **Bryan Anthony López Guerrero**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/TU-PERFIL)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/TU-USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/anthonylpz)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/anthonylopez-dev)
 
 Ingeniero en Tecnologías de la Información | Máster en Visual Analytics y Big Data | Especialista en Big Data e IA
 
