@@ -11,6 +11,16 @@
 
 ---
 
+---
+
+## 🌐 Demo en Vivo
+
+Puedes probar la aplicación web interactiva desplegada en **Streamlit Community Cloud** haciendo clic en el siguiente enlace:
+
+👉 **[https://diabetes-prediction-xgboost-shap-94k5yndmmhnesgcz2mdqk8.streamlit.app/](https://diabetes-prediction-xgboost-shap-94k5yndmmhnesgcz2mdqk8.streamlit.app/)**
+
+---
+
 ## 🎯 Descripción del proyecto
 
 Sistema de predicción de riesgo de diabetes que combina **precisión técnica** (XGBoost, ROC-AUC=0.89) con **explicabilidad clínica** (SHAP) y **usabilidad** (app Streamlit interactiva). El proyecto demuestra el pipeline completo de ML aplicado a salud: desde la imputación de datos faltantes hasta el despliegue de una herramienta usable por profesionales no técnicos.
