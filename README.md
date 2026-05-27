@@ -70,7 +70,7 @@ diabetes-prediction-xgboost-shap/
 │   └── xgboost_diabetes.pkl                ← Modelo serializado* (no incluido en repo)
 │
 ├── dashboard/
-│   └── dashboard_diabetes.html             ← HTML5 · CSS3 · JavaScript · Chart.js
+│   └── dashboard_diabetes.html             ← Dashboard HTML5 · CSS3 · JavaScript · Chart.js
 │
 ├── report/
 │   └── informe_final_diabetes.pdf          ← Informe completo PDF
