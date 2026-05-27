@@ -38,7 +38,7 @@ Sistema de predicción de riesgo de diabetes que combina **precisión técnica**
 | Explicabilidad | SHAP (SHapley Additive exPlanations) |
 | Visualización | matplotlib · seaborn |
 | App interactiva | Streamlit |
-| Dashboard | Power BI |
+| Dashboard | HTML5 · CSS3 · JavaScript · Chart.js |
 | Informe | ReportLab (PDF) |
 | Entorno | Python 3.10 · Google Colab |
 
@@ -70,7 +70,7 @@ diabetes-prediction-xgboost-shap/
 │   └── xgboost_diabetes.pkl                ← Modelo serializado* (no incluido en repo)
 │
 ├── dashboard/
-│   └── dashboard_diabetes.html
+│   └── dashboard_diabetes.html             ← HTML5 · CSS3 · JavaScript · Chart.js
 │
 ├── report/
 │   └── informe_final_diabetes.pdf          ← Informe completo PDF
@@ -121,7 +121,7 @@ Análisis SHAP
 (global + individual)
         │
         ▼
-App Streamlit + Dashboard Power BI + Informe PDF
+App Streamlit + Dashboard HTML5 · CSS3 · JavaScript · Chart.js + Informe PDF
 ```
 
 ---
