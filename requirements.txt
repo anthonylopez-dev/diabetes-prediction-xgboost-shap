@@ -11,4 +11,3 @@ streamlit==1.29.0
 plotly==5.17.0
 reportlab==4.0.4
 pillow==10.0.0
-pickle5==0.0.12
