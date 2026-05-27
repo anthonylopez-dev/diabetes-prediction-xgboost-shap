@@ -70,7 +70,7 @@ diabetes-prediction-xgboost-shap/
 │   └── xgboost_diabetes.pkl                ← Modelo serializado* (no incluido en repo)
 │
 ├── dashboard/
-│   └── dashboard_diabetes.pbix             ← Dashboard Power BI
+│   └── dashboard_diabetes.html
 │
 ├── report/
 │   └── informe_final_diabetes.pdf          ← Informe completo PDF
